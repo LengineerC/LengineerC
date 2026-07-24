@@ -1,1 +1,1 @@
-![GitHubCard](https://githubcard.com/LengineerC.svg)
+![GitHubCard](https://github.cards/LengineerC?template=Default)
