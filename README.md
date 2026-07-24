@@ -12,16 +12,16 @@
 <table align="center">
   <tr><td>
     <h3> 📄 About Me </h3>
-    <p>&nbsp;&nbsp;I'm <b>LengineerC</b></p>
-    <p>&nbsp;&nbsp;Graduated from a university in Southwest China with a major in Software Engineering.</p>
-    <p>&nbsp;&nbsp;Previously worked as a front-end engineer at Meituan.</p>
-    <p>&nbsp;&nbsp;I'm into linguistics, <del>and also a broke / struggling wannabe Chemistry Olympiad competitor.</del></p>
+    <p>&emsp;&emsp;I'm <b>LengineerC</b></p>
+    <p>&emsp;&emsp;Graduated from a university in Southwest China with a major in Software Engineering.</p>
+    <p>&emsp;&emsp;Previously worked as a front-end engineer at Meituan.</p>
+    <p>&emsp;&emsp;I'm into linguistics, <del>and also a broke / struggling wannabe Chemistry Olympiad competitor.</del></p>
     <br>
   </tr></td>
 
   <tr><td>
     <h3>☎️ Contact</h3>
-    <p>&nbsp;&nbsp;<b>📮 Email:&nbsp;</b><code>lengineerc@outlook.com</code></p>
+    <p>&emsp;&emsp;<b>📮 Email:&nbsp;</b><code>lengineerc@outlook.com</code></p>
     <br>
   </td></tr>
 </table>
@@ -37,5 +37,4 @@
 </div>
 
 ---
-
-## 🌟Feel free to check out my project. Issues and suggestions are welcome!🌟
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=2CAEF7&width=875&lines=%F0%9F%8C%9FFeel+free+to+check+out+my+project.Issues+and+suggestions+are+welcome!%F0%9F%8C%9F)](https://git.io/typing-svg)
