@@ -1,40 +1,69 @@
-<div align="center">
-  <h1>👋Welcome to my profile👋</h1>
-</div>
+<h1 align="center">Hi, I'm LengineerC 👋</h1>
 
-<div align="center">
-  <a href="https://blog.lengineerc.com/"><img src="https://img.shields.io/badge/MyBlog-Blog-8c36db" /></a>&emsp;
-  <a href="https://space.bilibili.com/92665721/"><img src="https://img.shields.io/badge/LengineerC-Bilibili-ff69b4" /></a>&emsp;
-  <a href="https://x.com/sun0225SUN](https://juejin.cn/user/1707958031887840"><img src="https://img.shields.io/badge/LengineerC-掘金 -blue" /></a>&emsp;
-  <img src="https://komarev.com/ghpvc/?username=LengineerC&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
-</div>
+<p align="center">
+  Software engineer interested in hardware, chemistry and linguistics.
+</p>
 
-<table align="center">
-  <tr><td>
-    <h3> 📄 About Me </h3>
-    <p>&emsp;&emsp;I'm <b>LengineerC</b></p>
-    <p>&emsp;&emsp;Graduated from a university in Southwest China with a major in Software Engineering.</p>
-    <p>&emsp;&emsp;Previously worked as a front-end engineer at Meituan.</p>
-    <p>&emsp;&emsp;I'm into linguistics, <del>and also a broke / struggling wannabe Chemistry Olympiad competitor.</del></p>
-    <br>
-  </tr></td>
+<p align="center">
+  <a href="https://blog.lengineerc.com/">
+    <img src="https://img.shields.io/badge/Blog-lengineerc.com-8c36db?style=flat-square&logo=blogger&logoColor=white" alt="Blog">
+  </a>
+  <a href="https://space.bilibili.com/92665721/">
+    <img src="https://img.shields.io/badge/Bilibili-LengineerC-fb7299?style=flat-square&logo=bilibili&logoColor=white" alt="Bilibili">
+  </a>
+  <a href="https://juejin.cn/user/1707958031887840">
+    <img src="https://img.shields.io/badge/掘金-LengineerC-1e80ff?style=flat-square&logo=juejin&logoColor=white" alt="掘金">
+  </a>
+  <a href="mailto:lengineerc@outlook.com">
+      <img src="https://img.shields.io/badge/%E2%9C%89_Email-Outlook-0078D4?style=flat-square" alt="Email">
+  </a>
+</p>
 
-  <tr><td>
-    <h3>☎️ Contact</h3>
-    <p>&emsp;&emsp;<b>📮 Email:&nbsp;</b><code>lengineerc@outlook.com</code></p>
-    <br>
-  </td></tr>
-</table>
+## About Me
 
-<!-- <div align="center">
-<h2>Github</h2>
-</div> -->
+- 🎓 Software Engineering graduate from Southwest China
+- 💼 Former front-end engineer at Meituan
+- 🐧 Linux and open-source enthusiast
+- 💻 Interested in Web development, C++ and Rust.
+- 🌐 Interested in linguistics
+- 🧪 ~~Chemistry Olympiad competitor~~
+
+## Tech Stack
+
+<p>
+  <strong>Systems & Desktop</strong><br>
+  <img src="https://img.shields.io/badge/C++-00599c?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Rust-ffa500?style=flat-square&logo=rust&logoColor=white" alt="Rust">
+  <img src="https://img.shields.io/badge/Qt-41cd52?style=flat-square&logo=qt&logoColor=white" alt="Qt">
+</p>
+
+<p>
+  <strong>Frontend</strong><br>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=20232A" alt="React">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js">
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+</p>
+
+<p>
+  <strong>Scripting & Tools</strong><br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Shell">
+</p>
+
+## GitHub Activity
+
+<p align="center">
+  <img
+    src="./github-metrics.svg"
+    alt="GitHub Metrics"
+    width="70%"
+  >
+</p>
+
 ---
 
-<div align="center">
-  <img width="65%" src="https://metrics.lecoq.io/lengineerc?template=classic&languages=1&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.skipped=dotfiles-arch&languages.limit=10&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.details=percentage&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FShanghai">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LengineerC&bg_color=515056&color=41b883&line=41b883&point=f6f8fa&area=true&hide_border=true">
-</div>
-
----
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=2CAEF7&width=875&lines=%F0%9F%8C%9FFeel+free+to+check+out+my+project.Issues+and+suggestions+are+welcome!%F0%9F%8C%9F)](https://git.io/typing-svg)
