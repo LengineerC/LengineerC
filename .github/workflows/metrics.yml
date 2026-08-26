@@ -4,10 +4,8 @@ on:
   schedule:
     - cron: "0 0 * * *"
 
-  # 允许在 Actions 页面手动运行
   workflow_dispatch:
 
-  # 修改工作流后自动运行一次
   push:
     branches:
       - main
@@ -29,5 +27,17 @@ jobs:
           user: LengineerC
           filename: github-metrics.svg
           template: classic
+
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Shanghai
+
+          plugin_languages: yes
+          plugin_languages_sections: most-used
+          plugin_languages_details: percentage, bytes-size
+          plugin_languages_limit: 8
+          plugin_languages_threshold: 1%
+          plugin_languages_other: no
+          plugin_languages_colors: github
+          
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
