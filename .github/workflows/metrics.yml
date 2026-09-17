@@ -45,6 +45,7 @@ jobs:
           plugin_languages_skipped: |
             LengineerC/dotfiles-arch
             LengineerC/lc_qs_niri
+            LengineerC/niri
             LengineerC/obsidian-notes
             LengineerC/quickshell-dms
             LengineerC/lengineerc.github.io
